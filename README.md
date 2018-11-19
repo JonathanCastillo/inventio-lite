@@ -8,3 +8,4 @@ inventio-lite/core/controller/Database.php
 ```
 ### Acceder al proyecto 
 usuario: admin, contraseña admin
+### ESTO ES UNA ACTUALIZACION
